@@ -1,7 +1,8 @@
 # bbox_detection
 Bounding Box detection for empty spaces in retail store's shelves and racks.
-> Jupyter Notebook (with all the steps) -> **detectempty.ipynb**
+> Jupyter Notebook (with all the steps) -> **emptydetection.ipynb**
 
+> To Run, ```python detect.py```
 #### Results
 
  ![Input](docs/img1.PNG "Input Image")
